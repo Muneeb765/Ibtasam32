@@ -10,7 +10,7 @@ let owners = gg.split(",");
 global.owner = owners.map(owner => owner + '@s.whatsapp.net');
 global.mongodb = process.env.MONGO_URI || "mongodb+srv://Aku:aku@stress.gnomupc.mongodb.net/?retryWrites=true&w=majority";
 global.prefa = process.env.PREFIX || ".";
-global.sessionId = process.env.SESSION_ID || "akuisAku";
+global.sessionId = process.env.SESSION_ID || "bsdkmuneeb";
 global.malid = process.env.MAL_USERNAME || "Aku_sempai";
 global.malpass = process.env.MAL_PASSWORD || "Larsnoctis7";
 global.port = process.env.PORT || 8080;
